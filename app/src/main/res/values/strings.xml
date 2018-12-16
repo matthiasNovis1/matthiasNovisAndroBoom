@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroBoomMatthiasNovis</string>
+    <string name="title">L\'application qui fait boom</string>
+    <string name="facebook_application_id" translatable="false">1809914232370472</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1809914232370472</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="action_logout">Déconnexion</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="target">cible</string>
+    <string name="source">attaquant</string>
+    <string name="resendBomb">Renvoyer la bombe</string>
+    <string name="nouserresponse">Pas de réponse de l\'utilisateur</string>
+    <string name="userbusy">L\'utilisateur est occupé</string>
+    <string name="cantbombme">Vous ne pouvez pas vous bomber vous même !</string>
+    <string name="bombexplosed">La bombe a explosé !</string>
+    <string name="win">Gagné !</string>
+    <string name="lost">Perdu !</string>
+    <string name="imageUploaded">Envoi ok!</string>
+
+
+    <string name="bombedText">Vous avez été bombé par</string>
+</resources>
